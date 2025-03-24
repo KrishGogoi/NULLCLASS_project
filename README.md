@@ -1,4 +1,4 @@
-Project Title:
+# Project Title:
 Advanced Sales Analytics with Google Looker Studio Click on the below link to view the dashboard: https://lookerstudio.google.com/reporting/3d7e61a0-0e50-4c79-a3f2-938e8f461793
 
 Project Description:
