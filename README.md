@@ -4,16 +4,16 @@ Advanced Sales Analytics with Google Looker Studio Click on the below link to vi
 ## Project Description:
 This project involves analyzing sales data from a retail company to derive actionable insights and create impactful visualizations using SQL, Python, and Google Looker Studio. The dataset (finaldataset) representing customers, orders, products, and payments details. The objectives of this project include:
 
- - 1. Deriving Key Insights:
+1. Deriving Key Insights:
 Identifying top-performing products, analyzing category-wise trends, and improving decision-making.
 
-- 2. Visualizing Data:
+2. Visualizing Data:
 Creating interactive dashboards in Google Looker Studio for better understanding and presentation of data.
 
-- 3. Customer Behavior Analysis:
+3. Customer Behavior Analysis:
 Highlighting customer payment patterns to support targeted marketing campaigns.
 
-Pre-requisites:
+## Pre-requisites:
 Before starting this project, you should have the following knowledge and tools in place:
 
 1. Basic SQL Knowledge:
@@ -31,7 +31,7 @@ o Understanding basic data analysis techniques, such as identifying trends, comp
 5. Tools & Technologies:
 o SQL Database: A SQL-based database to store and query the data. o Python: IDE or environment (e.g., Jupyter Notebook, Google Colab) for running Python scripts. o Google Looker Studio: A Google account and access to Looker Studio for creating and sharing dashboards.
 
-Key Steps and Analysis
+## Key Steps and Analysis
 Data Preparation:
 1. Database Setup:
 o Designed the sales database with normalized tables to ensure scalability and efficiency. o Key tables include: ▪ customer_detail: Customer information. ▪ order_detail: Order transactions. ▪ sku_detail: Product details like categories and pricing. ▪ payment_detail: Payment methods and statuses.
@@ -52,7 +52,7 @@ o Identified customers who completed the checkout process (is_gross = 1) but had
 4. Google Looker Studio Dashboards:
 o Designed and published interactive dashboards to present key findings. o Integrated the data with Looker Studio to showcase: ▪ Year-on-year sales performance by category. ▪ Top-performing products and declining trends. ▪ Customer payment patterns and overdue payments. o These dashboards allow dynamic filtering, exploration of data, and easy sharing with stakeholders for better decision-making.
 
-Tools and Technologies Used:
+## Tools and Technologies Used:
 • SQL:
 o Database creation, querying, and aggregation. o Extracted data using JOIN, GROUP BY, and advanced filtering.
 
@@ -72,5 +72,5 @@ o Real-time data exploration via Google Looker Studio dashboards. o Easy-to-navi
 3. Customer Targeting Recommendations:
 o Identified customers for payment follow-ups, optimizing cash flow and sales conversions.
 
-Impact:
+## Impact:
 The project empowers stakeholders with actionable insights and interactive visualizations, supporting strategic decisions in marketing, sales, and customer management. Google Looker Studio dashboards make the data easily accessible and interpretable, fostering data-driven strategies for better business outcomes.
